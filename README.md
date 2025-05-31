@@ -124,4 +124,14 @@
 
 
 ********************************************************************************************
+# 16) Что такое и чем отличаются Концептуальная, Логическая и Физическая модели?
+
+![image](https://github.com/user-attachments/assets/b874f936-6d56-4644-8db0-1da8beee89a9)
+
+![image](https://github.com/user-attachments/assets/dcc2d783-ce78-4d61-8e47-cec4a9aef04a)
+
+![image](https://github.com/user-attachments/assets/dd8b8a89-ad07-43fd-a047-17a668c5fe10)
+
+![image](https://github.com/user-attachments/assets/639bb64f-e950-443d-81ef-8751ae519c31)
+
 
