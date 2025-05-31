@@ -35,12 +35,25 @@
 
 
 ********************************************************************************************
-# 6)
+# 6) Объясни подход Инмона
+
+![image](https://github.com/user-attachments/assets/1aa96ab1-f7c5-4602-9840-1a9488d5df9d)
+
+![image](https://github.com/user-attachments/assets/d9b0981c-48e1-4122-908a-013df552e69c)
+
+![image](https://github.com/user-attachments/assets/4a2c8e6e-602a-4abe-a22e-e8270d757d4e)
 
 
 ********************************************************************************************
 
-# 7)
+# 7) Объясни подход Data Vault 2.0? Чем отличается 1 и 2 версия DV?
+
+![image](https://github.com/user-attachments/assets/1d5d10de-918f-4400-9f00-a325edba83f2)
+
+![image](https://github.com/user-attachments/assets/8e845bbf-0645-4259-aba1-08f22818f8ce)
+
+![image](https://github.com/user-attachments/assets/57a162a7-3236-48d9-bd09-e9ac74246bd1)
+
 
 
 
