@@ -54,14 +54,21 @@
 
 ![image](https://github.com/user-attachments/assets/57a162a7-3236-48d9-bd09-e9ac74246bd1)
 
+********************************************************************************************
 
+# 8) Объясни подход Anchor Modeling?
+
+![image](https://github.com/user-attachments/assets/f4b4dd00-cbf3-4915-a008-a80aafdcc1ec)
+
+![image](https://github.com/user-attachments/assets/9dcb23ec-2f49-40c9-b88b-14f6ef54826f)
 
 
 ********************************************************************************************
 
-# 8)
-********************************************************************************************
+# 9) Что такое SCD и какие типы бывают?
 
-# 9)
+![image](https://github.com/user-attachments/assets/1c69264c-20e9-4781-a5ac-938f71f61f38)
+
+![image](https://github.com/user-attachments/assets/19eeebe5-75f6-486f-9fa0-c7c0c478ac35)
 
 ********************************************************************************************
